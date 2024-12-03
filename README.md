@@ -1,6 +1,6 @@
 # java-17
 
-Repository with few examples of java 17 features
+Repository with few examples of java 17 features.
 
 
 * Compact Number Formatting Support (Java12)
